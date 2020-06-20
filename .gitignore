@@ -1,4 +1,3 @@
 .myUntrackedFile.txt
 log/
-
- 
+*.orig
